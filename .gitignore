@@ -25,6 +25,8 @@ var/
 .installed.cfg
 *.egg
 .ropeproject/
+*.pickle
+*.zip
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
